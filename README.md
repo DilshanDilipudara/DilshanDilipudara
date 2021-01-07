@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/website?label=finddilshan.com&style=for-the-badge&url=https%3A%2F%2Ffinddilshan.com)](https://www.linkedin.com/in/dilshan-dilip-udara-79b669183/?originalSubdomain=lk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DilshanDilip3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDilshanDilip3&screen_name=DilshanDilip3)
 
-## I'm a Student, Learner and Mentor!!  <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
+## I'm a Student, Learner and Researcher!!  <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
 
 - 🔭 I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓 I'm currently studying Computer Science at the University of Jaffna, Sri Lanka.
