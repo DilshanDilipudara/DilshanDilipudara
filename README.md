@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Kubernetes Operators.
 - :heart: I love Kubernetes. 
 - 👯 I’m looking to collaborate with like minded Professionals.
-- 🥅 2021 Goals: complete my degree program & my drean is join a software company. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🥅 2021 Goals: complete my degree program & my dream is to join a software company. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ Fun fact: I love Chess and Elle.
 - ❓ Want to know more about me? You can always contact me via serval social medias!
 
