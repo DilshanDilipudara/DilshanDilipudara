@@ -1,60 +1,58 @@
-<a href="https://github.com/DilshanDilipudara"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDilshanDilipudara&longCache=true"/></a>
-<a href=""><img align="right" alt="GitHub" src="https://visitor-badge.laobi.icu/badge?page_id=DilshanDilipudara"/></a>
+# Senior DevOps Engineer | GCP | Kubernetes | Docker | Python | Bash | Ansible | Helm | Jenkins | GitLab |
 
+[![GitHub Followers](https://img.shields.io/github/followers/DilshanDilipudara?logo=github&labelColor=282c34&color=181717)](https://github.com/DilshanDilipudara)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DilshanDilipudara)](https://github.com/DilshanDilipudara)
 
-### Hi there, I'm Dilshan Dilip Udara <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
+## Hi there, I'm Dilshan Dilip Udara! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+
 [![Website](https://img.shields.io/website?label=finddilshan.com&style=for-the-badge&url=https%3A%2F%2Ffinddilshan.com)](https://www.linkedin.com/in/dilshan-dilip-udara-79b669183/?originalSubdomain=lk)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DilshanDilip3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDilshanDilip3&screen_name=DilshanDilip3)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DilshanDilip3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DilshanDilip3)
 
-## I'm a Student, Learner and Researcher!!  <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
+### About Me
 
-- 🔭 I like to explore new technologies and develop software solutions and quick hacks.
-- 🎓 I'm currently studying Computer Science at the University of Jaffna, Sri Lanka.
-- 🌱 I’m currently learning Kubernetes Operators.
-- :heart: I love Kubernetes. 
-- 👯 I’m looking to collaborate with like minded Professionals.
-- 🥅 2021 Goals: complete my degree program & my dream is to join a software company. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ Fun fact: I love Chess and Elle.
-- ❓ Want to know more about me? You can always contact me via serval social medias!
+- 🔭 I'm a Senior DevOps Engineer with expertise in GCP, Kubernetes, Docker, Python, Bash, Ansible, Helm, Jenkins, GitLab, GitHub, Operator SDK, Laravel, Go, Kafka, MySQL, Node.js, and Angular.
+- 🌱 I'm constantly exploring new technologies and expanding my skill set.
+- 👯 I'm open to collaborating with like-minded professionals in the industry.
+- 🥅 My goal is to continue growing in my role and make impactful contributions to projects.
+- ⚡ Fun fact: I enjoy playing Chess and exploring new cuisines in my free time.
 
-### Connect with me:
+### Connect with Me
 
-[<img align="left" alt="finddilshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="finddilshan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="finddilshan | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"  />][stackoverflow]
-[<img align="left" alt="finddilshan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Stack Overflow" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" />][stackoverflow]
+[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" />][facebook]
 
 <br />
 
-### Languages and Tools:
+### Tech Stack
 
+[<img align="left" alt="GCP" title="Google Cloud Platform" width="36px" src="https://github.com/github/explore/raw/master/topics/google-cloud/google-cloud.png" />][github]
 [<img align="left" alt="Kubernetes" title="Kubernetes" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][github]
 [<img align="left" alt="Docker" title="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][github]
-[<img align="left" alt="go" title="go" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][github]
-[<img align="left" alt="Git" title="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="sql" title="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
-[<img align="left" alt="mysql" title="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
-[<img align="left" alt="MongoDB" title="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
-[<img align="left" alt="csharp" title="csharp" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][github]
+[<img align="left" alt="Python" title="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
+[<img align="left" alt="Bash" title="Bash" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][github]
+[<img align="left" alt="Ansible" title="Ansible" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />][github]
+[<img align="left" alt="Helm" title="Helm" width="36px" src="https://helm.sh/img/helm.svg" />][github]
+[<img align="left" alt="Jenkins" title="Jenkins" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jenkins/jenkins.png" />][github]
+[<img align="left" alt="GitLab" title="GitLab" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />][github]
 [<img align="left" alt="Laravel" title="Laravel" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][github]
-[<img align="left" alt="Nodejs" title="Nodejs" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
+[<img align="left" alt="Kafka" title="Kafka" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kafka/kafka.png" />][github]
+[<img align="left" alt="MySQL" title="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
+[<img align="left" alt="Node.js" title="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
 [<img align="left" alt="Angular" title="Angular" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][github]
-[<img align="left" alt="Heroku" title="Heroku" width="36px" src="https://github.com/github/explore/raw/master/topics/heroku/heroku.png" />][github]
-[<img align="left" alt="visual-studio-code" title="visual-studio-code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 
 <br />
 <br />
 
 ---
 
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed  in [Tea Stock Manage & Distribute](https://github.com/TeaStockManagement)
-2. 🗣 Commented on  [Jaffna Teaching Hospital Poison Department](https://github.com/dcs-university-of-jaffna)
-3. 💪 Opened in [operator-sdk/downtimezero](https://github.com/DilshanDilipudara/EPF)
+1. ❌ Closed issue in [Tea Stock Management & Distribute](https://github.com/TeaStockManagement)
+2. 🗣 Commented on issue in [Jaffna Teaching Hospital Poison Department](https://github.com/dcs-university-of-jaffna)
+3. 💪 Opened PR in [DowntimeZero](https://github.com/DilshanDilipudara/EPF)
 <!--END_SECTION:activity-->
 
 </details>
@@ -65,9 +63,6 @@
   <img align="left" alt="DilshanDilipudara's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DilshanDilipudara&show_icons=true&hide_border=true" />
 </details>
 <br />
-
-
-
 
 [linkedin]: https://www.linkedin.com/in/dilshan-dilip-udara-79b669183/?originalSubdomain=lk
 [twitter]: https://twitter.com/DilshanDilip3
