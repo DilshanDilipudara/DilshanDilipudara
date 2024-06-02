@@ -27,7 +27,6 @@ GCP | Kubernetes | Docker | Python | Bash | Ansible | Helm | Jenkins | GitLab |
 
 ### Tech Stack
 
-[<img align="left" alt="devops" title="devops" width="36px" src="https://github.com/github/explore/blob/8c607262d749ad43ca0e8b7e5c1cf7c3bc8976c6/topics/devops/devops.png" />][github]
 [<img align="left" alt="GCP" title="Google Cloud Platform" width="36px" src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png" />][github]
 [<img align="left" alt="Kubernetes" title="Kubernetes" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][github]
 [<img align="left" alt="Docker" title="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][github]
