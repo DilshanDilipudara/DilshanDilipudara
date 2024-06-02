@@ -27,6 +27,7 @@ GCP | Kubernetes | Docker | Python | Bash | Ansible | Helm | Jenkins | GitLab |
 
 ### Tech Stack
 
+[<img align="left" alt="devops" title="devops" width="36px" src="https://github.com/github/explore/blob/8c607262d749ad43ca0e8b7e5c1cf7c3bc8976c6/topics/devops/devops.png" />][github]
 [<img align="left" alt="GCP" title="Google Cloud Platform" width="36px" src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png" />][github]
 [<img align="left" alt="Kubernetes" title="Kubernetes" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][github]
 [<img align="left" alt="Docker" title="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][github]
@@ -36,15 +37,23 @@ GCP | Kubernetes | Docker | Python | Bash | Ansible | Helm | Jenkins | GitLab |
 [<img align="left" alt="Helm" title="Helm" width="36px" src="https://helm.sh/img/helm.svg" />][github]
 [<img align="left" alt="Jenkins" title="Jenkins" width="36px" src="https://github.com/github/explore/blob/8c607262d749ad43ca0e8b7e5c1cf7c3bc8976c6/topics/jenkins/jenkins.png" />][github]
 [<img align="left" alt="GitLab" title="GitLab" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />][github]
+[<img align="left" alt="github" title="github" width="36px" src="https://github.com/github/explore/blob/8c607262d749ad43ca0e8b7e5c1cf7c3bc8976c6/topics/github/github.png" />][github]
+
+<br />
+<br />
+<br />
+
 [<img align="left" alt="Laravel" title="Laravel" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][github]
 [<img align="left" alt="MySQL" title="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
 [<img align="left" alt="mongo" title="Mongo" width="36px" src="https://github.com/github/explore/blob/8c607262d749ad43ca0e8b7e5c1cf7c3bc8976c6/topics/mongodb/mongodb.png" />][github]
 [<img align="left" alt="Node.js" title="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
 [<img align="left" alt="Angular" title="Angular" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][github]
 [<img align="left" alt="Go" title="Go" width="36px" src="https://github.com/github/explore/blob/8c607262d749ad43ca0e8b7e5c1cf7c3bc8976c6/topics/go/go.png" />][github]
+[<img align="left" alt="Java" title="Java" width="36px" src="https://github.com/github/explore/blob/8c607262d749ad43ca0e8b7e5c1cf7c3bc8976c6/topics/java/java.png" />][github]
 [<img align="left" alt="HTML" title="HTML" width="36px" src="https://github.com/github/explore/blob/8c607262d749ad43ca0e8b7e5c1cf7c3bc8976c6/topics/html/html.png" />][github]
+[<img align="left" alt="css" title="css" width="36px" src="https://github.com/github/explore/blob/8c607262d749ad43ca0e8b7e5c1cf7c3bc8976c6/topics/css/css.png" />][github]
 [<img align="left" alt="linux" title="linux" width="36px" src="https://github.com/github/explore/blob/8c607262d749ad43ca0e8b7e5c1cf7c3bc8976c6/topics/linux/linux.png" />][github]
-
+[<img align="left" alt="windows" title="windows" width="36px" src="https://github.com/github/explore/blob/8c607262d749ad43ca0e8b7e5c1cf7c3bc8976c6/topics/windows/windows.png" />][github]
 
 <br />
 <br />
