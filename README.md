@@ -1,5 +1,5 @@
 # 👋 Senior DevOps Engineer 🚀
-GCP | Kubernetes | Docker | Python | Bash | Ansible | Helm | Jenkins | GitLab |
+GCP | Kubernetes | Docker | Python | Bash | Ansible | Helm | Jenkins | GitLab | Argo
 
 [![GitHub Followers](https://img.shields.io/github/followers/DilshanDilipudara?logo=github&labelColor=282c34&color=181717)](https://github.com/DilshanDilipudara)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DilshanDilipudara)](https://github.com/DilshanDilipudara)
